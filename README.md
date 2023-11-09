@@ -16,12 +16,10 @@ This project aims to understand the correlation between creative attributes and 
 
 - 📁 `data/`: Folder containing the dataset used for training (`Rocketium AI_ML Internship Assignment - 2 - Training dataset.csv`).
 - 📁 `notebooks/`: Jupyter notebook (`EDA_ROCKETIUM.ipynb`) with Exploratory Data Analysis (EDA), data preprocessing, and model building.
-- 📁 `reports/`: Folder for project reports.
-  - 📄 `Predictive_Modeling_Report.pdf`: Detailed report on the predictive modeling process.
+- 📁 `reports/`: 📄 `Predictive_Modeling_Report.pdf`: Detailed report on the predictive modeling process.
 - 📁 `src/`: Python scripts or modules (if applicable).
-- 📁 `images/`: Images used in the README or project documentation.
+- 📁 `Output_plot/`: Plot Images generated during the project.
 
-## Instructions
 
 ### Jupyter Notebook
 
